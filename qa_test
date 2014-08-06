@@ -1,12 +1,12 @@
 To demonstrate your acceptance testing experience please write a test that performs the following.  You may use any test framework you would like but please use capybara preferably and/or selenium webdriver.  Please add appropriate assertions in the test and use some sort of helper or page objects file.
 
-1)	Navigate to https://demo.avantcredit.com
-2)	Proceed to applying with random attributes (including military address) except for the following:
--	State: AL
--	Income: $4000
--	Email: random characters @n8r.us
--	DOB after 1990
--	Employment Type: Employed (Non-Military)
-3)	Proceed to step 2
-4)	Proceed to signing the contract and make an assertion on the following page.
+1)Navigate to https://demo.avantcredit.com
+2)Proceed to applying with random attributes (including military address) except for the following:
+  -State: AL
+  -Income: $4000
+  -Email: random characters @n8r.us
+  -DOB after 1990
+  -Employment Type: Employed (Non-Military)
+3)Proceed to step 2
+4)Proceed to signing the contract and make an assertion on the following page.
 
