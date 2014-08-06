@@ -10,5 +10,6 @@ Please add appropriate assertions in the test and use some sort of helper or pag
   -DOB after 1990
   -Employment Type: Employed (Non-Military)
 3)Proceed to step 2
-4)Proceed to signing the contract and make an assertion on the following page.
+4)Proceed to signing the contract 
+5)Make an assertion on the following (bank info) page.
 
