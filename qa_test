@@ -6,7 +6,7 @@ Please add appropriate assertions in the test and use some sort of helper or pag
 2)Proceed to applying with random attributes (including military address) except for the following:
   -State: AL
   -Income: $4000
-  -Email: random characters @n8r.us
+  -Email: random characters @avantcredit.test
   -DOB after 1990
   -Employment Type: Employed (Non-Military)
 3)Proceed to step 2
