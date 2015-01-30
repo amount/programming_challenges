@@ -11,7 +11,7 @@ Create an implementation of a **Document Uploader** app that meets the following
 	* Ensure the document's orientation/rotation is correct
 	* Allow the user to preview the photo before submitting
 * Upload the document to a web service, attaching the customer information
-* Give the user a confirmation that the document has been uploaded when the process is complete tell them that Avant will be reviewed by a verifications specialist within 24hrs.
+* When the document has been uploaded, show the user a confirmation message specifying that Avant will review their submission within 24hrs.
 * Ensure a user understands where they are in the process flow throughout
 * Ensure any network errors are handled properly and the user never gets "stuck" in the app
 * Bonus (not required)
