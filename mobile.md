@@ -5,7 +5,7 @@
 
 This challenge may be completed using the native mobile environment of your choice. Submissions must be written for iOS (Objective-C and/or Swift) or Android (Java). 
 
-For the web service portion, you may use any tool you are comfortable with. We strongly suggest something simple, such as Parse. This challenge is designed to be open-ended and to demonstrate your ability to implement native front-end code for mobile apps that interface with a backend service. This challenge is not designed to test your ability to create a web backend service.  
+We strongly suggest using Parse, or another similar BaaS provider, for the web backend portion of the challenge. This challenge is designed to be open-ended and to demonstrate your ability to implement native front-end code for mobile apps that interface with a backend service. This challenge is not designed to test your ability to create a web backend service.  
 
 ### Background 
 
@@ -30,11 +30,11 @@ The Document Upload features must meet the following requirements:
 * When the document has been uploaded, show the user a confirmation message or alert indicating that Avant will review their submission within 24hrs.
 * Allow the user to upload multiple documents and review the documents they have already uploaded for verification. 
 
-### Additional Suggestions 
+### Additional Criteria: What We're Looking For 
 
 * Use consistent code style and comment style throughout. 
 * Attention to detail in areas that are easy wins are nice to see.
 * Ensure a user understands where they are in the process flow throughout
 	* Ensure any errors (networking, uploading, user input validation) are handled properly and the user never gets "stuck" in the app
 	* Make it clear what the user is required to do at all times and use traditional/obvious navigation behaviors 
-* While we won't evaluate directly on the quality of design / visual appearance of the submission, we appreciate taking the extra step to make the submission visually appealing and holistic. This can include simple things such as proper use of an App Icon image asset in an asset catalog.  
+* While we won't evaluate directly on the quality of visual design or graphic design of the submission, we appreciate taking the extra step to make the submission easily navigable and holistic. This can include simple things such as proper use of an App Icon image asset in an asset catalog.  
